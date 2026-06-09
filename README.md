@@ -45,16 +45,10 @@ Al ser un sitio completamente estático, no requiere instalación ni dependencia
 1. Clonar o descargar el repositorio.
 2. Abrir el archivo `index.html` directamente en el navegador.
 
-```bash
-# Opcionalmente, puedes usar la extensión Live Server de VS Code
-# o cualquier servidor local estático
-```
-
 ## 📚 Conceptos practicados
 
 - Maquetación con **CSS Grid** y **Flexbox**
 - Uso de **variables CSS** (custom properties)
-- Metodología de nomenclatura de clases con estilo **BEM**
+- Metodología de nomenclatura de clases con estilo **BEM** (Block-Element-Modifier)
 - Optimización de rendimiento web con `preload`, `prefetch` y `preconnect`
-- Imágenes responsivas con el elemento `<picture>` y formatos modernos (**WebP**)
 - Detección de soporte de características con **Modernizr**
