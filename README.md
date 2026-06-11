@@ -45,7 +45,10 @@ Sitio web estático de un blog de café. Incluye secciones de blog, cursos, sobr
 
 Al ser un sitio completamente estático, no requiere instalación ni dependencias adicionales.
 
-1. Clonar o descargar el repositorio.
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/andresmdevco/coffee-blog.git
+```
 2. Abrir el archivo `index.html` directamente en el navegador.
 
 ## 📚 Conceptos practicados
