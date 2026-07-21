@@ -43,6 +43,14 @@ Sitio web estático de un blog de café. Incluye secciones de blog, cursos, sobr
 | `--blanco` | `#FFFFFF` |
 | `--negro` | `#000000` |
 
+## 📚 Conceptos practicados
+
+- Maquetación con **CSS Grid** y **Flexbox**
+- Uso de **variables CSS** (custom properties)
+- Metodología de nomenclatura de clases con estilo **BEM** (Block-Element-Modifier)
+- Optimización de rendimiento web con `preload`, `prefetch` y `preconnect`
+- Detección de soporte de características con **Modernizr**
+
 ## 🚀 Cómo ejecutar el proyecto
 
 Al ser un sitio completamente estático, no requiere instalación ni dependencias adicionales.
@@ -52,11 +60,3 @@ Al ser un sitio completamente estático, no requiere instalación ni dependencia
 git clone https://github.com/andresmdevco/coffee-blog.git
 ```
 2. Abrir el archivo `index.html` directamente en el navegador.
-
-## 📚 Conceptos practicados
-
-- Maquetación con **CSS Grid** y **Flexbox**
-- Uso de **variables CSS** (custom properties)
-- Metodología de nomenclatura de clases con estilo **BEM** (Block-Element-Modifier)
-- Optimización de rendimiento web con `preload`, `prefetch` y `preconnect`
-- Detección de soporte de características con **Modernizr**
