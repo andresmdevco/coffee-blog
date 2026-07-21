@@ -3,9 +3,10 @@
 Sitio web estático de un blog de café. Incluye secciones de blog, cursos, sobre nosotros y un formulario de contacto.
 
 ## 🌐 Demo
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2eb84667-6a8b-4ccf-b7c1-4b4ba981e5b1/deploy-status)](https://app.netlify.com/projects/coffee-blog-andresmdevco/deploys)
-
 🔗 https://coffee-blog-andresmdevco.netlify.app/
+
+## 👀 Vista previa
+https://github.com/user-attachments/assets/5bbaac10-6eec-4039-8826-2a459fb1fbb6
 
 ## 📄 Páginas
 
