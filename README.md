@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/5bbaac10-6eec-4039-8826-2a459fb1fbb6
 | `cursos.html` | Listado de cursos y talleres disponibles |
 | `contacto.html` | Formulario de contacto con imagen de fondo |
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías Utilizadas
 
 - **HTML5** — Estructura semántica con etiquetas como `<header>`, `<main>`, `<aside>`, `<article>`, `<footer>`
 - **CSS3** — Estilos con variables CSS, Flexbox y CSS Grid para el layout responsivo
